@@ -1,0 +1,9 @@
+:root {
+  --white: rgba(245, 245, 245, 1);
+  --btn-text-font-family: "Segoe UI", Helvetica;
+  --btn-text-font-weight: 400;
+  --btn-text-font-size: 18px;
+  --btn-text-letter-spacing: 0px;
+  --btn-text-line-height: 114.99999761581421%;
+  --btn-text-font-style: normal;
+}
